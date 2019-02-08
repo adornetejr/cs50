@@ -1,0 +1,12 @@
+git clone http
+
+git add file.html
+
+git commit -m "message about"
+
+git push
+
+git pull
+
+git reset --hard <hash>
+git reset --hard origin/master
