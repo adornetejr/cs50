@@ -10,3 +10,10 @@ git pull
 
 git reset --hard <hash>
 git reset --hard origin/master
+
+git branch
+git branch newbranchname
+
+git checkout branchname
+
+git merge branchname
